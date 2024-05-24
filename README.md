@@ -13,6 +13,10 @@ Can be browsed as "Learning - Security Controls" at https://vanheemstrasystems.g
 
 ~Roadmap to Learning Security Controls at https://roadmap.sh/security-controls~
 
+Related to "Creating Security Controls" at https://github.com/vanHeemstraSystems/creating-security-controls
+
+Related to "Start Finishing Security Controls" at https://github.com/vanHeemstraSystems/start-finishing-security-controls
+
 Documentation of this repository is automatically done with Quarto using GitHub Actions as described at https://github.com/vanHeemstraSystems/quarto-to-github-pages/blob/main/300/300/README.md
 
 ## 100 - Introduction
